@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "GabLan's Blog"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "My awesome website"
+
+[params.author]
+  name = "Gabin Lanore"
+  image = "img/author.jpg"
+  headline = "Cloud builder, always exploring what’s next."
+  bio = "Cloud builder and infrastructure enthusiast. I design and deploy systems from scratch, always looking for ways to push further / exploring scalability, resilience, and the next frontier of technology."
+  links = [
+    { email = "mailto:contact@gablan.fr" },
+  #   { discord = "https://discord.gg/invitecode" },
+    { github = "https://github.com/msterhuj" },
+    { youtube = "https://www.youtube.com/channel/UC3_pHZM8cv-82aKSybUVlIw" },
+    { linkedin = "https://www.linkedin.com/in/gabinlanore/" },
+  ]
